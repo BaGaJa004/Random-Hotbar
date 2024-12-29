@@ -1,0 +1,288 @@
+[30Dez.2024 00:01:08.806] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 12, --assetsDir, C:\Users\snikl\.gradle\caches\forge_gradle\assets, --gameDir, .]
+[30Dez.2024 00:01:08.816] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 17.0.10+11-LTS-240
+[30Dez.2024 00:01:08.821] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 17.0.10 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[30Dez.2024 00:01:08.973] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[30Dez.2024 00:01:09.128] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[30Dez.2024 00:01:09.238] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[30Dez.2024 00:01:09.399] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: AMD Radeon(TM) Graphics GL version 4.6.0 Core Profile Context 23.19.14.08.240820, ATI Technologies Inc.
+[30Dez.2024 00:01:09.428] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///C:/Users/snikl/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar!/ Service=ModLauncher Env=CLIENT
+[30Dez.2024 00:01:11.187] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[30Dez.2024 00:01:12.842] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_client' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\snikl\.gradle\caches\forge_gradle\assets, --assetIndex, 12]
+[30Dez.2024 00:01:13.751] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties]
+[30Dez.2024 00:01:14.123] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/snikl/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[30Dez.2024 00:01:25.940] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 198 Datafixer optimizations took 170 milliseconds
+[30Dez.2024 00:01:28.542] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/snikl/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.1.21_mapped_official_1.20.4/forge-1.20.4-49.1.21_mapped_official_1.20.4.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[30Dez.2024 00:01:28.542] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/snikl/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.1.21_mapped_official_1.20.4/forge-1.20.4-49.1.21_mapped_official_1.20.4.jar%230!/data/.mcassetsroot' uses unexpected schema
+[30Dez.2024 00:01:28.595] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[30Dez.2024 00:01:28.609] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[30Dez.2024 00:01:28.784] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.2+13
+[30Dez.2024 00:01:29.258] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.21, for MC 1.20.4 with MCP 20231207.112700
+[30Dez.2024 00:01:29.258] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.21 Initialized
+[30Dez.2024 00:01:29.346] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[30Dez.2024 00:01:30.372] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [hotbarshuffle]
+[30Dez.2024 00:01:30.569] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[30Dez.2024 00:01:31.324] [Worker-Main-9/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.04.hex, loading
+[30Dez.2024 00:01:31.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Dez.2024 00:01:38.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 49.1.21 Target: null
+[30Dez.2024 00:01:41.473] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[30Dez.2024 00:01:41.473] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[30Dez.2024 00:01:41.475] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.generic.wind_burst
+[30Dez.2024 00:01:42.516] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Speaker (Realtek(R) Audio)
+[30Dez.2024 00:01:42.516] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[30Dez.2024 00:01:42.642] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[30Dez.2024 00:01:42.651] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[30Dez.2024 00:01:42.653] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[30Dez.2024 00:01:42.653] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[30Dez.2024 00:01:42.655] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[30Dez.2024 00:01:42.667] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[30Dez.2024 00:01:42.667] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[30Dez.2024 00:01:42.667] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[30Dez.2024 00:01:42.667] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[30Dez.2024 00:01:43.055] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[30Dez.2024 00:01:43.142] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[30Dez.2024 00:01:43.143] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[30Dez.2024 00:01:43.143] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[30Dez.2024 00:01:43.144] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[30Dez.2024 00:01:43.374] [IO-Worker-1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[30Dez.2024 00:01:43.375] [IO-Worker-1/ERROR] [com.mojang.realmsclient.RealmsAvailability/]: Couldn't connect to realms
+com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication error with message 'Invalid session id'
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:447) ~[forge-1.20.4-49.1.21_mapped_official_1.20.4.jar%230!/:?]
+	at com.mojang.realmsclient.client.RealmsClient.clientCompatible(RealmsClient.java:232) ~[forge-1.20.4-49.1.21_mapped_official_1.20.4.jar%230!/:?]
+	at com.mojang.realmsclient.RealmsAvailability.lambda$check$0(RealmsAvailability.java:45) ~[forge-1.20.4-49.1.21_mapped_official_1.20.4.jar%230!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:842) ~[?:?]
+[30Dez.2024 00:01:48.954] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[30Dez.2024 00:01:50.664] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[30Dez.2024 00:01:50.863] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1271 advancements
+[30Dez.2024 00:01:51.375] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20.4
+[30Dez.2024 00:01:51.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Dez.2024 00:01:57.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Dez.2024 00:02:02.359] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dez.2024 00:02:02.359] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dez.2024 00:02:02.360] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dez.2024 00:02:02.360] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dez.2024 00:02:02.360] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dez.2024 00:02:02.360] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dez.2024 00:02:02.360] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dez.2024 00:02:02.360] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dez.2024 00:02:02.360] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dez.2024 00:02:02.423] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dez.2024 00:02:02.914] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[30Dez.2024 00:02:03.413] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[30Dez.2024 00:02:03.621] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Dez.2024 00:02:03.623] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5722 ms
+[30Dez.2024 00:02:03.819] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 5, from 10
+[30Dez.2024 00:02:03.819] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 5, from 0
+[30Dez.2024 00:02:04.718] [Render thread/INFO] [net.minecraftforge.common.ForgeHooks/]: Connected to a modded server.
+[30Dez.2024 00:02:04.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:b8573f3d] logged in with entity id 244 at (-2.425499227051442, 118.0, -3.521044824177778)
+[30Dez.2024 00:02:04.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[30Dez.2024 00:02:05.345] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2 advancements
+[30Dez.2024 00:02:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Who is Cutting Onions?]
+[30Dez.2024 00:02:07.994] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Who is Cutting Onions?]
+[30Dez.2024 00:02:08.115] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 8 advancements
+[30Dez.2024 00:02:09.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[30Dez.2024 00:02:14.553] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 33 advancements
+[30Dez.2024 00:02:18.906] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 36 advancements
+[30Dez.2024 00:02:20.074] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 47 advancements
+[30Dez.2024 00:02:21.236] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 52 advancements
+[30Dez.2024 00:02:21.885] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 61 advancements
+[30Dez.2024 00:02:22.485] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 71 advancements
+[30Dez.2024 00:02:23.085] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 78 advancements
+[30Dez.2024 00:02:24.283] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 91 advancements
+[30Dez.2024 00:02:24.883] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 104 advancements
+[30Dez.2024 00:02:25.483] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 119 advancements
+[30Dez.2024 00:02:26.099] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 123 advancements
+[30Dez.2024 00:02:26.698] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 129 advancements
+[30Dez.2024 00:02:27.298] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 135 advancements
+[30Dez.2024 00:02:27.897] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 136 advancements
+[30Dez.2024 00:02:33.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Survival Mode]
+[30Dez.2024 00:02:33.775] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Survival Mode
+[30Dez.2024 00:02:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Hot Stuff]
+[30Dez.2024 00:02:37.387] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Hot Stuff]
+[30Dez.2024 00:02:37.388] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 147 advancements
+[30Dez.2024 00:02:40.636] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 151 advancements
+[30Dez.2024 00:02:43.683] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 158 advancements
+[30Dez.2024 00:02:47.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Suit Up]
+[30Dez.2024 00:02:47.895] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Suit Up]
+[30Dez.2024 00:02:47.896] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 166 advancements
+[30Dez.2024 00:02:51.942] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 168 advancements
+[30Dez.2024 00:02:54.040] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 175 advancements
+[30Dez.2024 00:03:26.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Getting an Upgrade]
+[30Dez.2024 00:03:26.144] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Getting an Upgrade]
+[30Dez.2024 00:03:26.145] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 186 advancements
+[30Dez.2024 00:03:28.991] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 192 advancements
+[30Dez.2024 00:03:32.288] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 197 advancements
+[30Dez.2024 00:03:33.338] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 203 advancements
+[30Dez.2024 00:03:34.387] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 204 advancements
+[30Dez.2024 00:03:35.536] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 205 advancements
+[30Dez.2024 00:03:36.635] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 219 advancements
+[30Dez.2024 00:03:37.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Spooky Scary Skeleton]
+[30Dez.2024 00:03:37.251] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Spooky Scary Skeleton]
+[30Dez.2024 00:03:37.251] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 228 advancements
+[30Dez.2024 00:03:37.733] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 232 advancements
+[30Dez.2024 00:03:38.250] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 237 advancements
+[30Dez.2024 00:03:38.732] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 241 advancements
+[30Dez.2024 00:03:39.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Acquire Hardware]
+[30Dez.2024 00:03:39.350] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Acquire Hardware]
+[30Dez.2024 00:03:39.351] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 276 advancements
+[30Dez.2024 00:03:40.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Cover Me with Diamonds]
+[30Dez.2024 00:03:40.849] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Cover Me with Diamonds]
+[30Dez.2024 00:03:40.849] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 282 advancements
+[30Dez.2024 00:03:41.447] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 288 advancements
+[30Dez.2024 00:03:43.145] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 291 advancements
+[30Dez.2024 00:03:47.192] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 294 advancements
+[30Dez.2024 00:03:53.188] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 319 advancements
+[30Dez.2024 00:03:59.896] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 320 advancements
+[30Dez.2024 00:04:00.896] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 345 advancements
+[30Dez.2024 00:04:04.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev was killed by Witch using magic
+[30Dez.2024 00:04:04.594] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev was killed by Witch using magic
+[30Dez.2024 00:04:04.642] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 373 advancements
+[30Dez.2024 00:04:07.241] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 375 advancements
+[30Dez.2024 00:04:26.739] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 377 advancements
+[30Dez.2024 00:04:32.584] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 380 advancements
+[30Dez.2024 00:04:45.339] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 383 advancements
+[30Dez.2024 00:04:46.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Ice Bucket Challenge]
+[30Dez.2024 00:04:46.239] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Ice Bucket Challenge]
+[30Dez.2024 00:04:46.239] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 387 advancements
+[30Dez.2024 00:04:46.838] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 388 advancements
+[30Dez.2024 00:04:47.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Stone Age]
+[30Dez.2024 00:04:47.937] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Stone Age]
+[30Dez.2024 00:04:47.938] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 418 advancements
+[30Dez.2024 00:04:48.785] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 420 advancements
+[30Dez.2024 00:04:49.884] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 421 advancements
+[30Dez.2024 00:04:50.683] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 422 advancements
+[30Dez.2024 00:04:54.199] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 428 advancements
+[30Dez.2024 00:05:02.090] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 444 advancements
+[30Dez.2024 00:05:03.789] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 446 advancements
+[30Dez.2024 00:05:04.388] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 450 advancements
+[30Dez.2024 00:05:04.888] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 455 advancements
+[30Dez.2024 00:05:05.437] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 459 advancements
+[30Dez.2024 00:05:06.386] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 461 advancements
+[30Dez.2024 00:05:11.632] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 465 advancements
+[30Dez.2024 00:05:13.447] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 466 advancements
+[30Dez.2024 00:05:14.097] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 478 advancements
+[30Dez.2024 00:05:14.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Diamonds!]
+[30Dez.2024 00:05:14.647] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Diamonds!]
+[30Dez.2024 00:05:14.648] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 504 advancements
+[30Dez.2024 00:05:15.394] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 506 advancements
+[30Dez.2024 00:05:16.193] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 514 advancements
+[30Dez.2024 00:05:16.794] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 517 advancements
+[30Dez.2024 00:05:17.393] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 526 advancements
+[30Dez.2024 00:05:18.392] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 528 advancements
+[30Dez.2024 00:05:19.791] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 532 advancements
+[30Dez.2024 00:05:24.986] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 532 advancements
+[30Dez.2024 00:05:27.084] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 541 advancements
+[30Dez.2024 00:05:34.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[30Dez.2024 00:06:02.435] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 542 advancements
+[30Dez.2024 00:06:03.684] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 546 advancements
+[30Dez.2024 00:06:12.942] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 547 advancements
+[30Dez.2024 00:06:13.441] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 549 advancements
+[30Dez.2024 00:06:13.942] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 553 advancements
+[30Dez.2024 00:06:14.892] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 566 advancements
+[30Dez.2024 00:06:16.689] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 579 advancements
+[30Dez.2024 00:06:26.097] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 584 advancements
+[30Dez.2024 00:06:26.846] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 586 advancements
+[30Dez.2024 00:06:27.847] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 599 advancements
+[30Dez.2024 00:06:28.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Isn't It Iron Pick]
+[30Dez.2024 00:06:28.595] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Isn't It Iron Pick]
+[30Dez.2024 00:06:28.595] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 599 advancements
+[30Dez.2024 00:06:29.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has reached the goal [You Need a Mint]
+[30Dez.2024 00:06:29.594] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has reached the goal [You Need a Mint]
+[30Dez.2024 00:06:29.595] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 614 advancements
+[30Dez.2024 00:06:30.693] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 623 advancements
+[30Dez.2024 00:06:31.292] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 628 advancements
+[30Dez.2024 00:06:37.652] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 629 advancements
+[30Dez.2024 00:06:38.236] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 630 advancements
+[30Dez.2024 00:06:39.435] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 631 advancements
+[30Dez.2024 00:06:39.934] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 639 advancements
+[30Dez.2024 00:06:40.533] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 640 advancements
+[30Dez.2024 00:06:42.351] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 645 advancements
+[30Dez.2024 00:06:45.047] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 655 advancements
+[30Dez.2024 00:06:45.645] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 658 advancements
+[30Dez.2024 00:06:46.146] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 665 advancements
+[30Dez.2024 00:06:46.646] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 692 advancements
+[30Dez.2024 00:06:49.842] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 693 advancements
+[30Dez.2024 00:06:50.442] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 699 advancements
+[30Dez.2024 00:06:51.041] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 700 advancements
+[30Dez.2024 00:06:51.541] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 701 advancements
+[30Dez.2024 00:07:06.161] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 703 advancements
+[30Dez.2024 00:07:07.143] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 712 advancements
+[30Dez.2024 00:07:07.743] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 713 advancements
+[30Dez.2024 00:07:10.140] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 715 advancements
+[30Dez.2024 00:07:10.740] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 717 advancements
+[30Dez.2024 00:07:11.939] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 725 advancements
+[30Dez.2024 00:07:12.539] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 726 advancements
+[30Dez.2024 00:07:13.038] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 732 advancements
+[30Dez.2024 00:07:15.335] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 734 advancements
+[30Dez.2024 00:07:16.784] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 735 advancements
+[30Dez.2024 00:07:17.284] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 740 advancements
+[30Dez.2024 00:07:17.982] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 740 advancements
+[30Dez.2024 00:07:19.182] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 749 advancements
+[30Dez.2024 00:07:20.398] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 755 advancements
+[30Dez.2024 00:07:21.746] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 756 advancements
+[30Dez.2024 00:07:28.642] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 769 advancements
+[30Dez.2024 00:07:29.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Hidden in the Depths]
+[30Dez.2024 00:07:29.640] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Hidden in the Depths]
+[30Dez.2024 00:07:29.640] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 775 advancements
+[30Dez.2024 00:07:30.240] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 776 advancements
+[30Dez.2024 00:07:30.839] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 787 advancements
+[30Dez.2024 00:07:31.438] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 789 advancements
+[30Dez.2024 00:07:32.237] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 791 advancements
+[30Dez.2024 00:07:32.838] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 824 advancements
+[30Dez.2024 00:07:33.436] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 836 advancements
+[30Dez.2024 00:07:35.284] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 841 advancements
+[30Dez.2024 00:07:35.884] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 843 advancements
+[30Dez.2024 00:07:36.000] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[30Dez.2024 00:07:36.399] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 852 advancements
+[30Dez.2024 00:07:36.849] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 857 advancements
+[30Dez.2024 00:07:37.349] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 867 advancements
+[30Dez.2024 00:07:37.932] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 875 advancements
+[30Dez.2024 00:07:45.192] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 879 advancements
+[30Dez.2024 00:07:45.894] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 884 advancements
+[30Dez.2024 00:07:46.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has reached the goal [The Next Generation]
+[30Dez.2024 00:07:46.390] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has reached the goal [The Next Generation]
+[30Dez.2024 00:07:46.390] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 885 advancements
+[30Dez.2024 00:07:49.587] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 902 advancements
+[30Dez.2024 00:07:53.035] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 905 advancements
+[30Dez.2024 00:07:57.997] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 914 advancements
+[30Dez.2024 00:07:58.598] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 919 advancements
+[30Dez.2024 00:07:59.795] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 920 advancements
+[30Dez.2024 00:08:00.294] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 924 advancements
+[30Dez.2024 00:08:01.243] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 926 advancements
+[30Dez.2024 00:08:01.844] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 928 advancements
+[30Dez.2024 00:08:03.843] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 929 advancements
+[30Dez.2024 00:08:33.872] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[30Dez.2024 00:08:33.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[30Dez.2024 00:08:33.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[30Dez.2024 00:08:33.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[30Dez.2024 00:09:13.146] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 930 advancements
+[30Dez.2024 00:09:14.694] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 940 advancements
+[30Dez.2024 00:09:15.443] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 944 advancements
+[30Dez.2024 00:09:16.193] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 945 advancements
+[30Dez.2024 00:09:16.891] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 946 advancements
+[30Dez.2024 00:09:22.754] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 962 advancements
+[30Dez.2024 00:09:23.437] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 964 advancements
+[30Dez.2024 00:09:35.772] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[30Dez.2024 00:09:35.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[30Dez.2024 00:09:35.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[30Dez.2024 00:09:35.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[30Dez.2024 00:09:40.072] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[30Dez.2024 00:09:40.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[30Dez.2024 00:09:40.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[30Dez.2024 00:09:40.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[30Dez.2024 00:09:45.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[30Dez.2024 00:09:45.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[30Dez.2024 00:09:45.749] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[30Dez.2024 00:09:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Dez.2024 00:09:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Dez.2024 00:09:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Dez.2024 00:09:46.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[30Dez.2024 00:09:47.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[30Dez.2024 00:09:47.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[30Dez.2024 00:09:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[30Dez.2024 00:09:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Dez.2024 00:09:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Dez.2024 00:09:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Dez.2024 00:09:48.723] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
